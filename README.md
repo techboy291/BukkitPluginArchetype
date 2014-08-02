@@ -10,8 +10,6 @@ mvn archetype:generate -DarchetypeCatalog=local
 
 and select
 
-uk.co.dbyz:bukkitplugin (bukkitplugin)
+me.nerdwithbow:bukkitpluginarchetype (bukkitpluginarchetype)
 
 from the list.
-
-[![Build Status](http://build.dbyz.co.uk/buildStatus/icon?job=BukkitPluginArchetype)](http://build.dbyz.co.uk/job/BukkitPluginArchetype/)

@@ -3,9 +3,7 @@
     xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <requiredProperties>
-        <requiredProperty key="description">
-            <defaultValue>A sample Bukkit plugin.</defaultValue>
-        </requiredProperty>
+        <requiredProperty key="description"/>
         <requiredProperty key="bukkit-version">
             <defaultValue>1.7.9-R0.2</defaultValue>
         </requiredProperty>
