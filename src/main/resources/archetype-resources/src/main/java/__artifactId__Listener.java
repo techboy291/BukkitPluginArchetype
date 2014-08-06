@@ -1,4 +1,4 @@
-package me.nerdwithbow;
+package ${package};
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

@@ -1,4 +1,4 @@
-package me.nerdwithbow;
+package ${package};
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

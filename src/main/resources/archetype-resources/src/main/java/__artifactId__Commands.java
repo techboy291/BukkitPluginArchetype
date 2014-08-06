@@ -1,4 +1,4 @@
-package me.nerdwithbow;
+package ${package};
 
 public class ${artifactId}Commands {
     
